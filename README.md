@@ -1,5 +1,5 @@
 <h1>
-  i'm a vue.js fanboy, but i do some other stuff too :hammer:
+ i am a .Net Full Stack Developer 
 </h1>
 
 <p align="center">
