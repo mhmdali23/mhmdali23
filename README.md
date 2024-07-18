@@ -1,4 +1,8 @@
 
+# Bonjour ! 🥖
+
+My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
+
 ![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
@@ -9,15 +13,11 @@
 <code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-# Bonjour ! 🥖
-
-My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
-<img src="" />
 
 [<img src="https://img.shields.io/badge/C%23-282C34?logo=csharp&logoColor=239120" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
