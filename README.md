@@ -21,7 +21,9 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/SQL_-4479A1?logo=postgresql&logoColor=white" alt="SQL Developer logo" title="SQL " height="25" />][tech_tools_anchor]
+[<img src="https://img.shields.io/badge/SQL_-4479A1?logo=postgresql&logoColor=white" alt="SQL  logo" title="SQL " height="25" />][tech_tools_anchor]
+
+[<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server logo" title="Microsoft SQL Server" height="25" />][tech_tools_anchor]
 
 [<img src="https://img.shields.io/badge/ASP.NET_-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET logo" title="ASP.NET " height="25" />][tech_tools_anchor]
 
