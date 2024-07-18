@@ -18,6 +18,8 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 <a name="learning-now"></a>
 
+[<img src="https://img.shields.io/badge/ASP.NET_MVC_Developer-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET MVC Developer logo" title="ASP.NET MVC Developer" height="25" />][tech_tools_anchor]
+
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/SQL_-4479A1?logo=postgresql&logoColor=white" alt="SQL Developer logo" title="SQL " height="25" />][tech_tools_anchor]
