@@ -1,3 +1,7 @@
+
+![](https://user-images.githubusercontent.com/507615/90595977-95e70e80-e220-11ea-864a-6a61adaff212.png)
+
+![](https://visitor-badge.glitch.me/badge?page_id=afc163.afc163)
 [![Linkedin: Aly](https://img.shields.io/badge/-Aly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhmdali-p-singh/)](https://www.linkedin.com/in/mhmd-ali-076081308)
 
 
