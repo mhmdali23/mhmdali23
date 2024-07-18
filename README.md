@@ -17,7 +17,7 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 <a name="learning-now"></a>
 
-<img src="[https://cdn.discordapp.com/attachments/824404405427241021/912344508455333888/TrueCodersLogo_Inline.png](https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg)" />
+<img src="https://gistcdn.githack.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" />
 
 
 
