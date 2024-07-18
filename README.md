@@ -20,13 +20,14 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 
 
+
+
+[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/-512BD4?logo=dotnet&logoColor=white" alt=".NET logo" title=".NET" height="40" />][tech_tools_anchor]
 &nbsp;
 
 [<img src="https://img.shields.io/badge/C%23_-239120?logo=csharp&logoColor=white" alt="C# logo" title="C# Developer" height="25" />][tech_tools_anchor]
-&nbsp;
-
-[<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
