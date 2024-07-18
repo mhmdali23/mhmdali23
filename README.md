@@ -17,7 +17,7 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 <a name="learning-now"></a>
 
-<a href="[https://dotnet.microsoft.com/](https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg)" title="dotNet"><img src="icons/dotnet.png" /></a>
+https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
 
 
