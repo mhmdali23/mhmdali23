@@ -17,8 +17,8 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 <a name="learning-now"></a>
 
-https://upload.wikimedia.org/wikipedia/commons/d/d2/C_Sharp_Logo_2023.svg
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+<img src="https://cdn.discordapp.com/attachments/824404405427241021/912344508455333888/TrueCodersLogo_Inline.png" />
+
 
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
