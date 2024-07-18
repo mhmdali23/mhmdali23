@@ -17,9 +17,11 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 <a name="learning-now"></a>
 
+<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
+<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+
+
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/C#-282C34?logo=javascript&logoColor=F7DF1E" alt="C# logo" title="C#" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" />][tech_tools_anchor]
 &nbsp;
