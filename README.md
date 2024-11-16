@@ -36,6 +36,8 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 [<img src="https://img.shields.io/badge/LINQ-006400?logo=Microsoft&logoColor=white" alt="LINQ logo" title="LINQ" height="25" />](#)
 [<img src="https://img.shields.io/badge/EF_Core-7C8F7D?logo=Entity-Framework&logoColor=white" alt="EF Core logo" title="EF Core" height="25" />](#)
 [<img src="https://img.shields.io/badge/ADO.Net-0076D3?logo=Microsoft&logoColor=white" alt="ADO.Net logo" title="ADO.Net" height="25" />](#)
+[<img src="https://img.shields.io/badge/TailwindCss_-DD0031?logo=TailwindCss&logoColor=white" alt="TailwindCss logo" title="TailwindCSS Developer" height="25" />](#)
+
 
 
 
