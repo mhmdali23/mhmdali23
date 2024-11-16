@@ -48,7 +48,7 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 
 ## 🔍  Where to find me
 
-[![Linkedin: Aly](https://img.shields.io/badge/-Aly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhmdali-p-singh/)](https://www.linkedin.com/in/mhmd-ali-076081308)
+[![Linkedin: Aly][(https://img.shields.io/badge/-Aly-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mhmdali-p-singh/)](https://www.linkedin.com/in/mhmd-ali-076081308)](https://www.linkedin.com/in/muhammad-aly-076081308/)
 
 
 [tech_tools_anchor]: #bonjour--
