@@ -13,24 +13,26 @@ My name is Muhammad Aly. I am a .Net FullStack developer. 🥐
 <a name="learning-now"></a>
 
 
-- ![C#](https://github.com/yourusername/yourrepository/raw/main/csharp-icon.png) C# / ASP.NET Core
-- ![HTML](https://github.com/yourusername/yourrepository/raw/main/html-icon.png) HTML / CSS / JavaScript
-- ![TypeScript](https://github.com/yourusername/yourrepository/raw/main/typescript-icon.png) TypeScript / Angular
-- ![OOP](https://github.com/yourusername/yourrepository/raw/main/oop-icon.png) OOP
-- ![Solid Principles](https://github.com/yourusername/yourrepository/raw/main/solid-icon.png) Solid Principles & Design Patterns
-- ![Data Structures](https://github.com/yourusername/yourrepository/raw/main/data-structures-icon.png) Data Structures / Algorithms
-- ![Clean Architecture](https://github.com/yourusername/yourrepository/raw/main/clean-architecture-icon.png) Clean Architecture / MVC
-- ![API Integration](https://github.com/yourusername/yourrepository/raw/main/api-integration-icon.png) API Integration
-- ![Local Database](https://github.com/yourusername/yourrepository/raw/main/local-db-icon.png) Local Database
-- ![SQL Server](https://github.com/yourusername/yourrepository/raw/main/sql-server-icon.png) MS SQL Server / SQLite
-- ![Payments](https://github.com/yourusername/yourrepository/raw/main/payments-icon.png) Payments Integration
-- ![Git](https://github.com/yourusername/yourrepository/raw/main/git-icon.png) Version Control (Git)
-- ![SQL Query](https://github.com/yourusername/yourrepository/raw/main/sql-query-icon.png) Declarative Query Language
-- ![LINQ](https://github.com/yourusername/yourrepository/raw/main/linq-icon.png) LINQ
-- ![ORM](https://github.com/yourusername/yourrepository/raw/main/orm-icon.png) Object-Relational Mapper (ORM)
-- ![EF-Core](https://github.com/yourusername/yourrepository/raw/main/ef-core-icon.png) EF-Core
-- ![Data Access](https://github.com/yourusername/yourrepository/raw/main/data-access-icon.png) Data Access Technologies
-- ![ADO.Net](https://github.com/yourusername/yourrepository/raw/main/ado-icon.png) ADO.Net
+## My Skills
+
+- ![C#](https://github.com/your-username/your-username/raw/main/icons/csharp-icon.png) **C# / ASP.NET Core**
+- ![HTML](https://github.com/your-username/your-username/raw/main/icons/html-icon.png) **HTML / CSS / JavaScript**
+- ![TypeScript](https://github.com/your-username/your-username/raw/main/icons/typescript-icon.png) **TypeScript / Angular**
+- ![OOP](https://github.com/your-username/your-username/raw/main/icons/oop-icon.png) **OOP**
+- ![Solid Principles](https://github.com/your-username/your-username/raw/main/icons/solid-principles-icon.png) **Solid Principles & Design Patterns**
+- ![Data Structures](https://github.com/your-username/your-username/raw/main/icons/data-structures-icon.png) **Data Structures / Algorithms**
+- ![Clean Architecture](https://github.com/your-username/your-username/raw/main/icons/clean-architecture-icon.png) **Clean Architecture / MVC**
+- ![API](https://github.com/your-username/your-username/raw/main/icons/api-icon.png) **API Integration**
+- ![SQL Server](https://github.com/your-username/your-username/raw/main/icons/sql-server-icon.png) **MS SQL Server / SQLite**
+- ![Payments](https://github.com/your-username/your-username/raw/main/icons/payments-icon.png) **Payments Integration**
+- ![Git](https://github.com/your-username/your-username/raw/main/icons/git-icon.png) **Version Control (Git)**
+- ![SQL Query](https://github.com/your-username/your-username/raw/main/icons/sql-query-icon.png) **Declarative Query Language**
+- ![LINQ](https://github.com/your-username/your-username/raw/main/icons/linq-icon.png) **LINQ**
+- ![ORM](https://github.com/your-username/your-username/raw/main/icons/orm-icon.png) **Object-Relational Mapper (ORM)**
+- ![EF-Core](https://github.com/your-username/your-username/raw/main/icons/ef-core-icon.png) **EF-Core**
+- ![Data Access](https://github.com/your-username/your-username/raw/main/icons/data-access-icon.png) **Data Access Technologies**
+- ![ADO.Net](https://github.com/your-username/your-username/raw/main/icons/ado-icon.png) **ADO.Net**
+
 
 
 
